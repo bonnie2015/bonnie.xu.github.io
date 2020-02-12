@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xyg&#39;s Cute Space</title>
+  
+  <subtitle>Hello World.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-02-12T09:14:15.471Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Xyg</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>嘿</title>
+    <link href="http://yoursite.com/2020/02/12/%E5%98%BF-%E5%B0%B1%E8%BF%99%E4%B9%88%E5%BC%80%E5%A7%8B%E5%90%A7/"/>
+    <id>http://yoursite.com/2020/02/12/%E5%98%BF-%E5%B0%B1%E8%BF%99%E4%B9%88%E5%BC%80%E5%A7%8B%E5%90%A7/</id>
+    <published>2020-02-12T00:48:53.000Z</published>
+    <updated>2020-02-12T09:14:15.471Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>1.2.3</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;pre&gt;&lt;code&gt;1.2.3&lt;/code&gt;&lt;/pre&gt;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
